@@ -1,1 +1,2 @@
 # Coffe-Cafe-Power-BI-Sales-Report
+Developed an interactive Power BI sales report for the Coffee Café to Track daily, weekly, and monthly sales performance, Identify top-performing products, product category and locations. Analyze customer behavior and purchase trends through total sales, order, quantity , average sales over the period and sales for each hour in a day which can be enabled data-driven decision-making by providing an intuitive dashboard for stakeholders.
